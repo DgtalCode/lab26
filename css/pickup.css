@@ -1,0 +1,26 @@
+b {
+    font-weight: 600;
+}
+
+body {
+    background-color: azure;
+}
+
+#pickup {
+    float: right;
+}
+
+#lada {
+    float: left;
+}
+
+#triton {
+    float: left;
+}
+
+/* #colorado {
+    float: right;
+} */
+#ford150 {
+    float: right;
+}

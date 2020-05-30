@@ -1,0 +1,19 @@
+body {
+    background-color: oldlace;
+}
+
+#lada {
+    float: left;
+}
+
+.small_info {
+    text-align: right;
+}
+
+#oka {
+    float: right;
+}
+
+#prius {
+    float: left;
+}

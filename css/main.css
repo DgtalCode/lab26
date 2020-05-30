@@ -1,0 +1,59 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+h1, h2, h3 {
+    font-family: Arial;
+}
+
+body {
+    background-color: greenyellow;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+body a {
+    width: 30%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    /* overflow: hidden; */
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-y: -200px;
+    transition: 0.3s;
+    color: mediumslateblue;
+}
+
+/* body a:hover{
+    background-position-y: center;
+} */
+
+/* body a::after {
+    content: '';
+    background-image: url("./img/sedan.png");
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+} */
+
+body a img {
+    max-width: 100%;
+    transform: translate(0, 0);
+}
+
+body a h1 {
+    transition: 0.2s;
+    /* display: none; */
+}

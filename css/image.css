@@ -1,0 +1,13 @@
+.image {
+    max-width: 15vw;
+    max-height: 40vh;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.image img {
+    width: 100%;
+}

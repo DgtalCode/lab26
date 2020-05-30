@@ -1,0 +1,19 @@
+.small_info .image {
+    float: right;
+}
+
+/* .small_info p {
+    text-align: right;
+} */
+
+#hardtop {
+    float: right;
+}
+
+#opel {
+    float: left;
+}
+
+.small_info p {
+    max-width: 80vw;
+}

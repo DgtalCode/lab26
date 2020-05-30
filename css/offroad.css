@@ -1,0 +1,19 @@
+body {
+    background-color: floralwhite;
+}
+
+.small_info {
+    text-align: center;
+}
+
+#bantam {
+    float: left;
+}
+
+#trailblazer {
+    float: right;
+}
+
+#niva {
+    float: left;
+}
